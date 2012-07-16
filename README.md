@@ -1,2 +1,1 @@
-WebSockets
-==========
+This is a test of the websocket functionality via Node.
